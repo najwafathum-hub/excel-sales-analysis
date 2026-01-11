@@ -1,6 +1,6 @@
 # excel-sales-analysis
 Sales data analysis using Microsoft Excel, including formulas, pivot tables, and business insights.
-# 📊 Sales Analysis Using Microsoft Excel
+# Sales Analysis Using Microsoft Excel
 
 ## Project Overview
 This project demonstrates the use of **Microsoft Excel** to perform sales data analysis, focusing on data cleaning, formula-based calculations, and summary insights using **Pivot Tables**.  
